@@ -15,4 +15,6 @@ After approval from the admin, the restaurant will be added to the list of nearb
 2. If user/restaurant owner forgets the password, for that they have to contact the digin admin separately. <br>
 (Contact Details of admin are provided at bottom) <br>
 
+# Languages used
+### Flask-Python Web Framework,HTML, CSS, Bootstrap, Javascript, SQLite3
 

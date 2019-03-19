@@ -3,7 +3,7 @@
 <b>How to run :- </b>
 Download the zip file.
 Extract It.
-Go to fsociety (current) folder , open terminal and <br> write command python run.py
+Go to current folder , open terminal and <br> write command python run.py
 
 <b>Functionalities:- </b> <br>
 Through this website, users can register and subsequently login to place orders from nearby restaurants. <br>
